@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NHL Teams</string>
+    <string name="team_name_hint">Enter the team\'s name</string>
+    <string name="team_name_label">Team Name</string>
+    <string name="captain_name_hint">Enter the captain\'s name</string>
+    <string name="captain_name_label">Captain</string>
+    <string name="team_details_label">Details</string>
+    <string name="team_solved_label">Solved</string>
+    <string name="date_picker_title">Date of team:</string>
+    <string name="new_team">New team</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d teams</string>
+    <string name="delete_team">Delete team</string>
+</resources>
